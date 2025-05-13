@@ -52,10 +52,12 @@ Dependency Injection is handled with Koin for each layer, providing an easy-to-f
 ## Screenshots
 
 <!-- Add your screenshots in the `img/` folder and update the filenames below -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="img/im_login.png" alt="Login" width="200" />
+  <img src="img/im_register.png" alt="Register" width="200" />
+  <img src="img/im_home.png" alt="Home" width="200" />
+  <img src="img/im_add_note.png" alt="Add Note" width="200" />
+  <img src="img/im_profile.png" alt="Profile" width="200" />
 
-![Login Screen](img/im_login.png)
-![Register Screen](img/im_register.png)
-![Notes List](img/im_home.png)
-![Add Note](img/im_add_note.png)
-![Profile](img/im_profile.png)
+</div>
 
